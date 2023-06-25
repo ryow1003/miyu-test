@@ -75,6 +75,10 @@ html {
   font-size: 62.5%;
 }
 
+.now{
+  text-align: center;
+}
+
 .now a{
   font-size: 1.6rem;
   font-weight: 700;
@@ -88,7 +92,6 @@ html {
   letter-spacing: 0.1em;
   color: #212529;
   border-radius: 0.5rem;
-  margin: 50px auto;
-  margin-left: 40%;
   border: solid #000000 1px;
+  margin: 50px 0;
 }
